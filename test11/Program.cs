@@ -251,6 +251,7 @@ namespace bandSongs
                     Console.WriteLine("--------------");
                 }
             }
+            //GIT COMMENT
         //  TODO: Else if the option is a U or u then update a name in the array (if it's there)
             /*
             Allows the user to update an existing name.
