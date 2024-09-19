@@ -1,0 +1,14 @@
+C:\Users\JRaymond\Desktop\Pathways\testCRUD\bin\Debug\net8.0\testCRUD.exe
+C:\Users\JRaymond\Desktop\Pathways\testCRUD\bin\Debug\net8.0\testCRUD.deps.json
+C:\Users\JRaymond\Desktop\Pathways\testCRUD\bin\Debug\net8.0\testCRUD.runtimeconfig.json
+C:\Users\JRaymond\Desktop\Pathways\testCRUD\bin\Debug\net8.0\testCRUD.dll
+C:\Users\JRaymond\Desktop\Pathways\testCRUD\bin\Debug\net8.0\testCRUD.pdb
+C:\Users\JRaymond\Desktop\Pathways\testCRUD\obj\Debug\net8.0\testCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JRaymond\Desktop\Pathways\testCRUD\obj\Debug\net8.0\testCRUD.AssemblyInfoInputs.cache
+C:\Users\JRaymond\Desktop\Pathways\testCRUD\obj\Debug\net8.0\testCRUD.AssemblyInfo.cs
+C:\Users\JRaymond\Desktop\Pathways\testCRUD\obj\Debug\net8.0\testCRUD.csproj.CoreCompileInputs.cache
+C:\Users\JRaymond\Desktop\Pathways\testCRUD\obj\Debug\net8.0\testCRUD.dll
+C:\Users\JRaymond\Desktop\Pathways\testCRUD\obj\Debug\net8.0\refint\testCRUD.dll
+C:\Users\JRaymond\Desktop\Pathways\testCRUD\obj\Debug\net8.0\testCRUD.pdb
+C:\Users\JRaymond\Desktop\Pathways\testCRUD\obj\Debug\net8.0\testCRUD.genruntimeconfig.cache
+C:\Users\JRaymond\Desktop\Pathways\testCRUD\obj\Debug\net8.0\ref\testCRUD.dll

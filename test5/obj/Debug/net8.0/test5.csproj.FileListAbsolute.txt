@@ -1,0 +1,14 @@
+C:\Users\JRaymond\Desktop\Pathways\test5\bin\Debug\net8.0\test5.exe
+C:\Users\JRaymond\Desktop\Pathways\test5\bin\Debug\net8.0\test5.deps.json
+C:\Users\JRaymond\Desktop\Pathways\test5\bin\Debug\net8.0\test5.runtimeconfig.json
+C:\Users\JRaymond\Desktop\Pathways\test5\bin\Debug\net8.0\test5.dll
+C:\Users\JRaymond\Desktop\Pathways\test5\bin\Debug\net8.0\test5.pdb
+C:\Users\JRaymond\Desktop\Pathways\test5\obj\Debug\net8.0\test5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JRaymond\Desktop\Pathways\test5\obj\Debug\net8.0\test5.AssemblyInfoInputs.cache
+C:\Users\JRaymond\Desktop\Pathways\test5\obj\Debug\net8.0\test5.AssemblyInfo.cs
+C:\Users\JRaymond\Desktop\Pathways\test5\obj\Debug\net8.0\test5.csproj.CoreCompileInputs.cache
+C:\Users\JRaymond\Desktop\Pathways\test5\obj\Debug\net8.0\test5.dll
+C:\Users\JRaymond\Desktop\Pathways\test5\obj\Debug\net8.0\refint\test5.dll
+C:\Users\JRaymond\Desktop\Pathways\test5\obj\Debug\net8.0\test5.pdb
+C:\Users\JRaymond\Desktop\Pathways\test5\obj\Debug\net8.0\test5.genruntimeconfig.cache
+C:\Users\JRaymond\Desktop\Pathways\test5\obj\Debug\net8.0\ref\test5.dll

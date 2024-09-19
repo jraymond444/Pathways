@@ -1,0 +1,14 @@
+C:\Users\JRaymond\Desktop\Pathways\PATHWAYSREPO\pizza\obj\Debug\net8.0\pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JRaymond\Desktop\Pathways\PATHWAYSREPO\pizza\obj\Debug\net8.0\pizza.AssemblyInfoInputs.cache
+C:\Users\JRaymond\Desktop\Pathways\PATHWAYSREPO\pizza\obj\Debug\net8.0\pizza.AssemblyInfo.cs
+C:\Users\JRaymond\Desktop\Pathways\PATHWAYSREPO\pizza\obj\Debug\net8.0\pizza.csproj.CoreCompileInputs.cache
+C:\Users\JRaymond\Desktop\Pathways\PATHWAYSREPO\pizza\bin\Debug\net8.0\pizza.exe
+C:\Users\JRaymond\Desktop\Pathways\PATHWAYSREPO\pizza\bin\Debug\net8.0\pizza.deps.json
+C:\Users\JRaymond\Desktop\Pathways\PATHWAYSREPO\pizza\bin\Debug\net8.0\pizza.runtimeconfig.json
+C:\Users\JRaymond\Desktop\Pathways\PATHWAYSREPO\pizza\bin\Debug\net8.0\pizza.dll
+C:\Users\JRaymond\Desktop\Pathways\PATHWAYSREPO\pizza\bin\Debug\net8.0\pizza.pdb
+C:\Users\JRaymond\Desktop\Pathways\PATHWAYSREPO\pizza\obj\Debug\net8.0\pizza.dll
+C:\Users\JRaymond\Desktop\Pathways\PATHWAYSREPO\pizza\obj\Debug\net8.0\refint\pizza.dll
+C:\Users\JRaymond\Desktop\Pathways\PATHWAYSREPO\pizza\obj\Debug\net8.0\pizza.pdb
+C:\Users\JRaymond\Desktop\Pathways\PATHWAYSREPO\pizza\obj\Debug\net8.0\pizza.genruntimeconfig.cache
+C:\Users\JRaymond\Desktop\Pathways\PATHWAYSREPO\pizza\obj\Debug\net8.0\ref\pizza.dll

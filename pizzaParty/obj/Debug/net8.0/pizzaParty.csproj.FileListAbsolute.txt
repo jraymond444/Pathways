@@ -1,0 +1,14 @@
+C:\Users\JRaymond\Desktop\Pathways\pizzaParty\bin\Debug\net8.0\pizzaParty.exe
+C:\Users\JRaymond\Desktop\Pathways\pizzaParty\bin\Debug\net8.0\pizzaParty.deps.json
+C:\Users\JRaymond\Desktop\Pathways\pizzaParty\bin\Debug\net8.0\pizzaParty.runtimeconfig.json
+C:\Users\JRaymond\Desktop\Pathways\pizzaParty\bin\Debug\net8.0\pizzaParty.dll
+C:\Users\JRaymond\Desktop\Pathways\pizzaParty\bin\Debug\net8.0\pizzaParty.pdb
+C:\Users\JRaymond\Desktop\Pathways\pizzaParty\obj\Debug\net8.0\pizzaParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JRaymond\Desktop\Pathways\pizzaParty\obj\Debug\net8.0\pizzaParty.AssemblyInfoInputs.cache
+C:\Users\JRaymond\Desktop\Pathways\pizzaParty\obj\Debug\net8.0\pizzaParty.AssemblyInfo.cs
+C:\Users\JRaymond\Desktop\Pathways\pizzaParty\obj\Debug\net8.0\pizzaParty.csproj.CoreCompileInputs.cache
+C:\Users\JRaymond\Desktop\Pathways\pizzaParty\obj\Debug\net8.0\pizzaParty.dll
+C:\Users\JRaymond\Desktop\Pathways\pizzaParty\obj\Debug\net8.0\refint\pizzaParty.dll
+C:\Users\JRaymond\Desktop\Pathways\pizzaParty\obj\Debug\net8.0\pizzaParty.pdb
+C:\Users\JRaymond\Desktop\Pathways\pizzaParty\obj\Debug\net8.0\pizzaParty.genruntimeconfig.cache
+C:\Users\JRaymond\Desktop\Pathways\pizzaParty\obj\Debug\net8.0\ref\pizzaParty.dll

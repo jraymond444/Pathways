@@ -1,0 +1,14 @@
+C:\Users\JRaymond\Desktop\Pathways\PATHWAYSREPO\newhelloworld\bin\Debug\net8.0\newhelloworld.exe
+C:\Users\JRaymond\Desktop\Pathways\PATHWAYSREPO\newhelloworld\bin\Debug\net8.0\newhelloworld.deps.json
+C:\Users\JRaymond\Desktop\Pathways\PATHWAYSREPO\newhelloworld\bin\Debug\net8.0\newhelloworld.runtimeconfig.json
+C:\Users\JRaymond\Desktop\Pathways\PATHWAYSREPO\newhelloworld\bin\Debug\net8.0\newhelloworld.dll
+C:\Users\JRaymond\Desktop\Pathways\PATHWAYSREPO\newhelloworld\bin\Debug\net8.0\newhelloworld.pdb
+C:\Users\JRaymond\Desktop\Pathways\PATHWAYSREPO\newhelloworld\obj\Debug\net8.0\newhelloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JRaymond\Desktop\Pathways\PATHWAYSREPO\newhelloworld\obj\Debug\net8.0\newhelloworld.AssemblyInfoInputs.cache
+C:\Users\JRaymond\Desktop\Pathways\PATHWAYSREPO\newhelloworld\obj\Debug\net8.0\newhelloworld.AssemblyInfo.cs
+C:\Users\JRaymond\Desktop\Pathways\PATHWAYSREPO\newhelloworld\obj\Debug\net8.0\newhelloworld.csproj.CoreCompileInputs.cache
+C:\Users\JRaymond\Desktop\Pathways\PATHWAYSREPO\newhelloworld\obj\Debug\net8.0\newhelloworld.dll
+C:\Users\JRaymond\Desktop\Pathways\PATHWAYSREPO\newhelloworld\obj\Debug\net8.0\refint\newhelloworld.dll
+C:\Users\JRaymond\Desktop\Pathways\PATHWAYSREPO\newhelloworld\obj\Debug\net8.0\newhelloworld.pdb
+C:\Users\JRaymond\Desktop\Pathways\PATHWAYSREPO\newhelloworld\obj\Debug\net8.0\newhelloworld.genruntimeconfig.cache
+C:\Users\JRaymond\Desktop\Pathways\PATHWAYSREPO\newhelloworld\obj\Debug\net8.0\ref\newhelloworld.dll

@@ -1,0 +1,14 @@
+C:\Users\JRaymond\Desktop\pathways\test8\bin\Debug\net8.0\test8.exe
+C:\Users\JRaymond\Desktop\pathways\test8\bin\Debug\net8.0\test8.deps.json
+C:\Users\JRaymond\Desktop\pathways\test8\bin\Debug\net8.0\test8.runtimeconfig.json
+C:\Users\JRaymond\Desktop\pathways\test8\bin\Debug\net8.0\test8.dll
+C:\Users\JRaymond\Desktop\pathways\test8\bin\Debug\net8.0\test8.pdb
+C:\Users\JRaymond\Desktop\pathways\test8\obj\Debug\net8.0\test8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JRaymond\Desktop\pathways\test8\obj\Debug\net8.0\test8.AssemblyInfoInputs.cache
+C:\Users\JRaymond\Desktop\pathways\test8\obj\Debug\net8.0\test8.AssemblyInfo.cs
+C:\Users\JRaymond\Desktop\pathways\test8\obj\Debug\net8.0\test8.csproj.CoreCompileInputs.cache
+C:\Users\JRaymond\Desktop\pathways\test8\obj\Debug\net8.0\test8.dll
+C:\Users\JRaymond\Desktop\pathways\test8\obj\Debug\net8.0\refint\test8.dll
+C:\Users\JRaymond\Desktop\pathways\test8\obj\Debug\net8.0\test8.pdb
+C:\Users\JRaymond\Desktop\pathways\test8\obj\Debug\net8.0\test8.genruntimeconfig.cache
+C:\Users\JRaymond\Desktop\pathways\test8\obj\Debug\net8.0\ref\test8.dll
