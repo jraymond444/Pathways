@@ -1,0 +1,6 @@
+John|Doe|Hourly|15.00
+Debbie|Doolittle|Salary|47,000
+Jonathan|Appleseed|Salary|115,000
+Debra|Cakes|Temp|15.00|20
+June|July|Intern|0.00
+Roman|Italian|Contractor|4,000

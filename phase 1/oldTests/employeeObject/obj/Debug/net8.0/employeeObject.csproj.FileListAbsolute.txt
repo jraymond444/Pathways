@@ -1,0 +1,15 @@
+C:\Users\JRaymond\Desktop\Pathways\employeeObject\bin\Debug\net8.0\employeeObject.exe
+C:\Users\JRaymond\Desktop\Pathways\employeeObject\bin\Debug\net8.0\employeeObject.deps.json
+C:\Users\JRaymond\Desktop\Pathways\employeeObject\bin\Debug\net8.0\employeeObject.runtimeconfig.json
+C:\Users\JRaymond\Desktop\Pathways\employeeObject\bin\Debug\net8.0\employeeObject.dll
+C:\Users\JRaymond\Desktop\Pathways\employeeObject\bin\Debug\net8.0\employeeObject.pdb
+C:\Users\JRaymond\Desktop\Pathways\employeeObject\obj\Debug\net8.0\employeeObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JRaymond\Desktop\Pathways\employeeObject\obj\Debug\net8.0\employeeObject.AssemblyInfoInputs.cache
+C:\Users\JRaymond\Desktop\Pathways\employeeObject\obj\Debug\net8.0\employeeObject.AssemblyInfo.cs
+C:\Users\JRaymond\Desktop\Pathways\employeeObject\obj\Debug\net8.0\employeeObject.csproj.CoreCompileInputs.cache
+C:\Users\JRaymond\Desktop\Pathways\employeeObject\obj\Debug\net8.0\employeeObject.sourcelink.json
+C:\Users\JRaymond\Desktop\Pathways\employeeObject\obj\Debug\net8.0\employeeObject.dll
+C:\Users\JRaymond\Desktop\Pathways\employeeObject\obj\Debug\net8.0\refint\employeeObject.dll
+C:\Users\JRaymond\Desktop\Pathways\employeeObject\obj\Debug\net8.0\employeeObject.pdb
+C:\Users\JRaymond\Desktop\Pathways\employeeObject\obj\Debug\net8.0\employeeObject.genruntimeconfig.cache
+C:\Users\JRaymond\Desktop\Pathways\employeeObject\obj\Debug\net8.0\ref\employeeObject.dll

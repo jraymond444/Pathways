@@ -1,0 +1,6 @@
+John|Doe|Hourly|15
+Debbie|Doolittle|Salary|47000
+Jonathan|Appleseed|Salary|115000
+Debra|Cakes|Temp|15
+April|July|Intern|0
+JJ|Johnson|Salary|50000

@@ -1,0 +1,5 @@
+C:\Users\JRaymond\Desktop\Pathways\obj\Debug\net8.0\Pathways.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JRaymond\Desktop\Pathways\obj\Debug\net8.0\Pathways.AssemblyInfoInputs.cache
+C:\Users\JRaymond\Desktop\Pathways\obj\Debug\net8.0\Pathways.AssemblyInfo.cs
+C:\Users\JRaymond\Desktop\Pathways\obj\Debug\net8.0\Pathways.csproj.CoreCompileInputs.cache
+C:\Users\JRaymond\Desktop\Pathways\obj\Debug\net8.0\Pathways.sourcelink.json

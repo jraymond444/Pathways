@@ -1,0 +1,25 @@
+Olive Garden|chain|3
+Texas Roadhouse|chain|4
+Mcdonalds|fast-food|3
+Sickies|bar and grill|3
+fazolies|fast-food|1
+Chipotle|fast-food|4
+Taco Bell|fast-food|4
+la mesa|mexican|3
+outback|steakhouse|3
+Wendy's|fast-food|3
+Burger King|fast-food|2
+ 
+ 
+ 
+5 guys|fast-food|5
+Subway|sandwich|3
+ 
+q|fine dining|5
+ 
+test|fine dining|5
+Goodrich|ice cream|4
+ 
+ 
+golden apple|buffet|3
+pizza ranch|buffet|5

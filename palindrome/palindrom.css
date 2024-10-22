@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    background-color: floralwhite;
+  }
+  
+  /* Container for flexboxes */
+  .myflexboxRow {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  /* Create three equal entries in myflexbox */
+  .myflexboxColumn {
+    flex: 33%;
+    padding: 20px;
+  }

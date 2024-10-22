@@ -1,0 +1,5 @@
+1112|Savings|1950
+2223|Checking|20000
+3334|Savings|500
+4445|CD|2000000
+5556|Checking|5500

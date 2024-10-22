@@ -1,0 +1,15 @@
+C:\Users\JRaymond\Desktop\Pathways\restaurantObject\obj\Debug\net8.0\restaurantObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JRaymond\Desktop\Pathways\restaurantObject\obj\Debug\net8.0\restaurantObject.AssemblyInfoInputs.cache
+C:\Users\JRaymond\Desktop\Pathways\restaurantObject\obj\Debug\net8.0\restaurantObject.AssemblyInfo.cs
+C:\Users\JRaymond\Desktop\Pathways\restaurantObject\obj\Debug\net8.0\restaurantObject.csproj.CoreCompileInputs.cache
+C:\Users\JRaymond\Desktop\Pathways\restaurantObject\obj\Debug\net8.0\restaurantObject.sourcelink.json
+C:\Users\JRaymond\Desktop\Pathways\restaurantObject\bin\Debug\net8.0\restaurantObject.exe
+C:\Users\JRaymond\Desktop\Pathways\restaurantObject\bin\Debug\net8.0\restaurantObject.deps.json
+C:\Users\JRaymond\Desktop\Pathways\restaurantObject\bin\Debug\net8.0\restaurantObject.runtimeconfig.json
+C:\Users\JRaymond\Desktop\Pathways\restaurantObject\bin\Debug\net8.0\restaurantObject.dll
+C:\Users\JRaymond\Desktop\Pathways\restaurantObject\bin\Debug\net8.0\restaurantObject.pdb
+C:\Users\JRaymond\Desktop\Pathways\restaurantObject\obj\Debug\net8.0\restaurantObject.dll
+C:\Users\JRaymond\Desktop\Pathways\restaurantObject\obj\Debug\net8.0\refint\restaurantObject.dll
+C:\Users\JRaymond\Desktop\Pathways\restaurantObject\obj\Debug\net8.0\restaurantObject.pdb
+C:\Users\JRaymond\Desktop\Pathways\restaurantObject\obj\Debug\net8.0\restaurantObject.genruntimeconfig.cache
+C:\Users\JRaymond\Desktop\Pathways\restaurantObject\obj\Debug\net8.0\ref\restaurantObject.dll

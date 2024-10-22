@@ -1,0 +1,4 @@
+Tom|Brady|QB|300|3
+Aaron|Rodgers|QB|289|4
+Saquon|Barkley|RB|120|0
+Jerry|Rice|WR|88|2

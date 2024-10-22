@@ -1,0 +1,15 @@
+C:\Users\JRaymond\Desktop\Pathways\fantasyfootball\obj\Debug\net8.0\footballObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JRaymond\Desktop\Pathways\fantasyfootball\obj\Debug\net8.0\footballObject.AssemblyInfoInputs.cache
+C:\Users\JRaymond\Desktop\Pathways\fantasyfootball\obj\Debug\net8.0\footballObject.AssemblyInfo.cs
+C:\Users\JRaymond\Desktop\Pathways\fantasyfootball\obj\Debug\net8.0\footballObject.csproj.CoreCompileInputs.cache
+C:\Users\JRaymond\Desktop\Pathways\fantasyfootball\obj\Debug\net8.0\footballObject.sourcelink.json
+C:\Users\JRaymond\Desktop\Pathways\fantasyfootball\bin\Debug\net8.0\footballObject.exe
+C:\Users\JRaymond\Desktop\Pathways\fantasyfootball\bin\Debug\net8.0\footballObject.deps.json
+C:\Users\JRaymond\Desktop\Pathways\fantasyfootball\bin\Debug\net8.0\footballObject.runtimeconfig.json
+C:\Users\JRaymond\Desktop\Pathways\fantasyfootball\bin\Debug\net8.0\footballObject.dll
+C:\Users\JRaymond\Desktop\Pathways\fantasyfootball\bin\Debug\net8.0\footballObject.pdb
+C:\Users\JRaymond\Desktop\Pathways\fantasyfootball\obj\Debug\net8.0\footballObject.dll
+C:\Users\JRaymond\Desktop\Pathways\fantasyfootball\obj\Debug\net8.0\refint\footballObject.dll
+C:\Users\JRaymond\Desktop\Pathways\fantasyfootball\obj\Debug\net8.0\footballObject.pdb
+C:\Users\JRaymond\Desktop\Pathways\fantasyfootball\obj\Debug\net8.0\footballObject.genruntimeconfig.cache
+C:\Users\JRaymond\Desktop\Pathways\fantasyfootball\obj\Debug\net8.0\ref\footballObject.dll

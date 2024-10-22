@@ -1,0 +1,6 @@
+8877|nonprofit@costco.com|nonprofit|20|400|T
+2347|nonprofit@costco.com|nonprofit|20|45|N
+4567|nonprofit@costco.com|nonprofit|20|40|M
+8887|Executive@costco.com|Executive|200|600|
+8667|regular@costco.com|regular|100|200|
+7777|corporate@costco.com|corporate|750|4000|

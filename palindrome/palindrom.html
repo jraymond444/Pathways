@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Palindrom</title>
+
+    <link rel="stylesheet" href="palindrom.css">
+    <script src="palindrom.js"></script>
+</head>
+<body>
+    <h1>Palindrom?</h1>
+    <div class="myflexboxRow">
+        <div class="myflexboxColumn">
+            <h2>Form to obtain a word and check if it a palindrom or not, and then place in correct list</h2>
+            <form name="myForm">
+                Word to list: <input type="text" name="newWord" value=""><br />
+                <input type="button" value="Add to list" onclick="validateANDadd()">
+            </form>
+        </div>
+        <div class="myflexboxColumn">
+            <h2>Palindroms</h2>
+            <table id="myList1">
+            </table>
+            <br /> <br />
+            <input type="button" value="Clear the list" onclick="clearList1()">
+        </div>
+        <div class="myflexboxColumn">
+            <h2>Not palindroms</h2>
+            <table id="myList2">
+            </table>
+            <br /> <br />
+            <input type="button" value="Clear the list" onclick="clearList2()">
+        </div>
+    </div>    
+</body>
+</html>

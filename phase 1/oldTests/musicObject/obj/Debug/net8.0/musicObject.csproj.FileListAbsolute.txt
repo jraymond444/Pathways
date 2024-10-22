@@ -1,0 +1,15 @@
+C:\Users\JRaymond\Desktop\Pathways\musicObject\obj\Debug\net8.0\musicObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JRaymond\Desktop\Pathways\musicObject\obj\Debug\net8.0\musicObject.AssemblyInfoInputs.cache
+C:\Users\JRaymond\Desktop\Pathways\musicObject\obj\Debug\net8.0\musicObject.AssemblyInfo.cs
+C:\Users\JRaymond\Desktop\Pathways\musicObject\obj\Debug\net8.0\musicObject.csproj.CoreCompileInputs.cache
+C:\Users\JRaymond\Desktop\Pathways\musicObject\obj\Debug\net8.0\musicObject.sourcelink.json
+C:\Users\JRaymond\Desktop\Pathways\musicObject\bin\Debug\net8.0\musicObject.exe
+C:\Users\JRaymond\Desktop\Pathways\musicObject\bin\Debug\net8.0\musicObject.deps.json
+C:\Users\JRaymond\Desktop\Pathways\musicObject\bin\Debug\net8.0\musicObject.runtimeconfig.json
+C:\Users\JRaymond\Desktop\Pathways\musicObject\bin\Debug\net8.0\musicObject.dll
+C:\Users\JRaymond\Desktop\Pathways\musicObject\bin\Debug\net8.0\musicObject.pdb
+C:\Users\JRaymond\Desktop\Pathways\musicObject\obj\Debug\net8.0\musicObject.dll
+C:\Users\JRaymond\Desktop\Pathways\musicObject\obj\Debug\net8.0\refint\musicObject.dll
+C:\Users\JRaymond\Desktop\Pathways\musicObject\obj\Debug\net8.0\musicObject.pdb
+C:\Users\JRaymond\Desktop\Pathways\musicObject\obj\Debug\net8.0\musicObject.genruntimeconfig.cache
+C:\Users\JRaymond\Desktop\Pathways\musicObject\obj\Debug\net8.0\ref\musicObject.dll
