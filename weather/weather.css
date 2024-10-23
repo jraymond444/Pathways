@@ -1,0 +1,21 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td{
+    border: 1pk solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+th{
+    background-color: lightblue;
+}
+
+.weather-icon{
+
+    width: 30px;
+    height: 30px;
+}
